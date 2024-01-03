@@ -1,5 +1,4 @@
 # video-subtitle-parser
-# video-subtitle-process
 
 A website on which video(s) can be uploaded, processed in some manner (in the background) and then searched using the subtitles in that video as keywords.
 
